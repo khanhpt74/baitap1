@@ -1,3 +1,4 @@
+#Tạo 1 số nguyên ngẫu nhiên n trong khoảng [50, 1000] đóng vai trò là số phần tử của List
 import random
 x = []
 x = random.randint(50, 1000)
